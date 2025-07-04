@@ -1,0 +1,31 @@
+{
+  "name": "shopee-cart",
+  "version": "1.0.0",
+  "description": "Shop Cart with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/shopee-cart.git"
+  },
+  "keywords": [
+    "cart",
+    "shop",
+    "JS",
+    "TS",
+    "Javascript",
+    "Typescript",
+    "Node"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/shopee-cart/issues"
+  },
+  "homepage": "https://github.com/yceman/shopee-cart#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
